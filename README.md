@@ -1,6 +1,6 @@
-# I am no longer supporting this mod, if you wish more information please talk to Brandon3655 or Covers1624
- 
- 1.10.2 --> 1.17x are END OF LIFE, we will NOT be accepting PR's etc for those versions. There are no plans to backport once 1.18 is Released.
+# Here is a fork of Avaritia 1.1 featuring the main contributions from Morpheus1101, Covers1624, and Brandon3655.
+
+The goal of this project is to bring Avaritia to version 1.20.1 with all of its features. The reason I decided to start this project is that other popular forks do not include all features, lack integration with essential mods like JEI, or have severe bugs.
 
 # Avaritia
 Are you the type of modded Minecraft player that makes a beeline for the designated "end game" and then gives up on ever playing again once you get there? Do you wish there was a way to make the process take significantly longer? Do you love GregTech, but wish it weren't so short? Do you sit down on your chest full of Galgadorian Drills and wish there was a mod that didn't just hand things to you on a silver platter?
